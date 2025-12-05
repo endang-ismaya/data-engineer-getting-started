@@ -1,0 +1,27 @@
+## Number
+
+- SMALLINT
+- INTEGER (INT)
+- BIGINT
+- REAL
+- DOUBLE PRECISION
+- NUMERIC (p, s)
+- DECIMAL (p, s)
+- SERIAL
+- BIGSERIAL
+
+## Character
+- CHAR
+- VARCHAR
+- TEXT
+
+## Date
+- DATE (format YYYY-MM-DD)
+- TIME (format HH:MI:SS)
+- TIMESTAMP (format YYYY-MM-DD HH:MI:SS)
+- INTERVAL
+
+## Boolean
+- TRUE
+- FALSE
+- NULL
